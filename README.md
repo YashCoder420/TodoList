@@ -1,3 +1,0 @@
-# TodoList![imdb clone app screenshot homepage](https://user-images.githubusercontent.com/128240301/230732359-1daba011-8262-406d-a95b-c38e0e6933bb.png)
-![imdb clone app screenshot favorite list page](https://user-images.githubusercontent.com/128240301/230732361-dd02979f-3bd8-4900-8b6c-2dc381a72262.png)
-This is a Movie info app made using OMDB API. When users enters the movie title in search box, they will get suggestions and when they click on a movie they will get full info about that movie. Users can also add their favourite movies in the favourites list and view their list by clicking on the favourites button in nav bar.
